@@ -146,4 +146,4 @@ Set your `question` in [RAG.py](RAG.py) and run the script again (with `indexMak
 
 ## Tags / Keywords
 
-`RAG` · `LangGraph` · `GPT` · `GPT-4o` · `FAISS` · `LangChain` · `vector-search` · `embeddings` · `sentence-transformers` · `PDF` · `semantic-search` · `OpenAI`
+`RAG` · `LangGraph` · `FAISS` 
