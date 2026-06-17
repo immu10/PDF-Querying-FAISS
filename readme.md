@@ -144,6 +144,6 @@ Set your `question` in [RAG.py](RAG.py) and run the script again (with `indexMak
 
 ---
 
-## Tags / Keywords
+## Tags
 
 `RAG` · `LangGraph` · `FAISS` 
